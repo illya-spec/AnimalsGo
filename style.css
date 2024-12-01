@@ -1,0 +1,74 @@
+header {
+    text-align: center;
+}
+
+
+nav a {
+    text-decoration: none;
+    color: burlywood;
+    background-color: black;
+    padding:5px;
+    border-radius: 10px;
+}
+
+
+body {
+    font-family: sans-serif;
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-clip: content-box;
+    background-attachment: fixed;
+    
+}
+
+.logo{
+    width: 240px;
+}
+header h1 {
+    background-color: burlywood;
+    border-radius: 16px;
+}
+
+
+
+
+main p {
+    background-color: burlywood;
+    border-radius: 16px;
+    text-align: center;
+}
+footer {
+    background-color: burlywood;
+    border-radius: 50px;
+    text-align:center;
+}
+
+main h2 {
+    background-color: burlywood;
+    border-radius: 16px;
+    text-align: center;
+}
+main img {
+    width:650px;
+    border-radius: 50px;
+}
+
+.Guineapigs{
+    width: 600px;
+}
+
+footer img{
+    height: 160px;
+    border-radius: 50px
+    
+}
+
+header h3{
+    background-color: burlywood;
+    border-radius: 16px;
+}
+.lol{
+    height: 200px;
+    width: 290px;
+}
